@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+
+🔭 I’m currently a Graduate Electrical Engineer
+
+🌱 I’m currently learning about HTML, CSS and Javascript and putting my knowledge into practice
+
 
 <!--
 **kosiumeigbo/kosiumeigbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
