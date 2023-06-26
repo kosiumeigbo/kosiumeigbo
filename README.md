@@ -2,7 +2,7 @@
 
 🔭 I’m currently a Graduate Electrical Engineer
 
-🌱 I’m currently learning about HTML, CSS and Javascript and putting my knowledge into practice
+🌱 I’m currently learning about HTML, CSS and Javascript and putting my knowledge into practice building projects.
 
 
 <!--
