@@ -4,6 +4,7 @@
 
 🌱 I’m currently learning about HTML, CSS and Javascript and putting my knowledge into practice building projects.
 
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=blue)
 <!--
 **kosiumeigbo/kosiumeigbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
